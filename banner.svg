@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1D2743"/>
+      <stop offset="1" stop-color="#0F1A2E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="312" rx="10" fill="none" stroke="#C8A2A1" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="600" y="150" text-anchor="middle" font-family="Cinzel, Georgia, 'Times New Roman', serif" font-size="74" letter-spacing="18" fill="#FFFFFF">BLEND</text>
+  <text x="600" y="196" text-anchor="middle" font-family="Sora, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" letter-spacing="9" fill="#C8A2A1">MARKETING MÉDICO</text>
+  <line x1="540" y1="228" x2="660" y2="228" stroke="#C8A2A1" stroke-width="1.5"/>
+  <text x="600" y="270" text-anchor="middle" font-family="Sora, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#FFFFFF" fill-opacity="0.85">Autoridade técnica transformada em percepção de valor no digital</text>
+</svg>
